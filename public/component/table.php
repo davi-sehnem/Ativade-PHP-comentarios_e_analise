@@ -30,3 +30,5 @@
     ?>
 
 </table>
+
+<!--Esse codigo cria uma tabela que será adicionada com o include na pagina home-->
