@@ -9,3 +9,4 @@ CREATE TABLE usuario (
 );
 
 INSERT INTO usuario (usuario, senha) VALUE ('admin','123');
+
