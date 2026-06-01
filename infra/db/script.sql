@@ -10,3 +10,4 @@ CREATE TABLE usuario (
 
 INSERT INTO usuario (usuario, senha) VALUE ('admin','123');
 
+/* Esse é o código que será inserido no banco de dados */
