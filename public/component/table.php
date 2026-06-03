@@ -8,7 +8,7 @@
         <th>ID</th>
         <th>Usuário</th>
         <th>Senha</th>
-        <th><a href=""></a></th>
+        <th>a</th>
     </tr>
 
     <?php
