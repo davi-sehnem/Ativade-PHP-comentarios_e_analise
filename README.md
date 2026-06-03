@@ -39,6 +39,9 @@ ATIVIDADE_TESTE_UM/
 
 ## Explicação geral sobre o funcionamento do código
 
-O código funciona com o php sendo a base junto com banco de dados. O XAMPP cria um servidor local e permite testar o site localmente. 
+O código funciona com o php sendo a base junto com banco de dados, junto com o XAMPP que cria um servidor local e permite testar o site localmente. 
+O usuário primeiramente faz o login no index então é direcionado para a página home onde pode adicionar novos usuários e ver os usuários cadastrados na tabela, logo embaixo tem o botão de sair para realizar o logout.
 
 ## Principais aprendizados obtidos durante a análise.
+
+Realizar essa atividade ajudou a entender os conceitos fundamentais do PHP, SQL e do XAMPP.
