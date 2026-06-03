@@ -47,10 +47,17 @@
         <br>
         <button type="submit">Cadastrar</button> 
     </form> 
-    <?php
     
+    <h4>Excluir Usuário</h4> <
+    <form method="POST"> 
+        <label for="usuario">Seleciona o usuário:</label>
+        <input type="text"> 
+    </form> 
+
+    <?php
     include("../public/component/table.php"); //traz a tabela
     ?>
+    
 
 
     <a href="logout.php">Sair</a>
