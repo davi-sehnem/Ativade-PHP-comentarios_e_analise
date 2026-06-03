@@ -23,6 +23,7 @@
             <td>" . $linha["id"] . "</td>
             <td>" . $linha["username"] . "</td>
             <td>" . $linha["password"] . "</td>
+            <td>" . $linha["a"] . "</td>
         
         </tr>";
     }
