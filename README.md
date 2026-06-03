@@ -17,24 +17,25 @@ XAMPP: cria o servidor local para a conexão com o banco de dados.
 
 ## Estrutura básica dos arquivos
 
-'''text
+```text
 ATIVIDADE_TESTE_UM/
 ├── infra/
 │   ├── db/
-│   │   ├── connect.php     <-- configura a conexão com banco de dados  
-│   │   └── script.sql      <-- script para criação da tabela do banco
-│   └── redes/              
-├── public/                 
-│   ├── component/          
-│   │   └── table.php       <-- os elementos que compõe a tabela
-|   |   └── navbar.php      <-- a barra de navegão para ser integrada nas páginas
-│   ├── home.php            <-- página home onde mostra os usários cadastrados e pode-se adicionar usuários
-│   └── logout.php          <-- para encerrar a sessão do usuário
-├──style
-|   └──style.css            <-- para personalização
-├── index.php               <-- página do login
-└── README.md               <-- documento .md para esplicar o projeto elaborado
-'''
+│   │   ├── connect.php    <-- configura a conexão com banco de dados
+│   │   └── script.sql     <-- script para criação da tabela do banco
+│   └── redes/
+├── public/
+│   ├── component/
+│   │   ├── table.php      <-- os elementos que compõe a tabela
+│   │   └── navbar.php     <-- a barra de navegação para ser integrada nas páginas
+│   ├── home.php           <-- página home onde mostra os usuários cadastrados e pode-se adicionar usuários
+│   └── logout.php         <-- para encerrar a sessão do usuário
+├── style/
+│   └── style.css          <-- para personalização
+├── index.php              <-- página do login
+└── README.md              <-- documento .md para explicar o projeto elaborado
+```
+
 
 ## Explicação geral sobre o funcionamento do código
 
