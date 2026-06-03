@@ -8,6 +8,7 @@
         <th>ID</th>
         <th>Usuário</th>
         <th>Senha</th>
+        <th><a href=""></a></th>
     </tr>
 
     <?php
@@ -24,6 +25,7 @@
             <td>" . $linha["username"] . "</td>
             <td>" . $linha["password"] . "</td>
             <td>" . $linha["a"] . "</td>
+            
         
         </tr>";
     }
