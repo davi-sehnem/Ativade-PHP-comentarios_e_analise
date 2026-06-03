@@ -17,6 +17,7 @@ XAMPP: cria o servidor local para a conexão com o banco de dados.
 
 ## Estrutura básica dos arquivos
 
+'''text
 ATIVIDADE_TESTE_UM/
 ├── infra/
 │   ├── db/
@@ -33,6 +34,7 @@ ATIVIDADE_TESTE_UM/
 |   └──style.css            <-- para personalização
 ├── index.php               <-- página do login
 └── README.md               <-- documento .md para esplicar o projeto elaborado
+'''
 
 ## Explicação geral sobre o funcionamento do código
 
